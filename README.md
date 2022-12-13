@@ -1,2 +1,2 @@
 # PythonUygulamaSorulari
-Bu repoda Pythonda alıştırma yapacağınız çeşitli sorular ve cevapları içermektedir.
+Python'da alıştırma yapmanızı sağlayacak çeşitli sorular ve cevapları içermektedir.
